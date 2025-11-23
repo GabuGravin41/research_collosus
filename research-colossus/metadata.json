@@ -1,0 +1,5 @@
+{
+  "name": "Research Colossus",
+  "description": "A multi-agent autonomous research system leveraging Gemini 3 Pro reasoning capabilities to tackle complex scientific problems in physics, chemistry, and mathematics.",
+  "requestFramePermissions": []
+}
